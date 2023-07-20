@@ -42,7 +42,7 @@ password:koushik
 Usage:
 Install in a Virtual Environment. Once you have set up a VE, clone this project
 
-git clone https://github.com/adigunsherif/Django-School-Management-System.git
+git clone https://github.com/Koushik-412/ONEOATH.git
 Then
 
 cd Django-School-Management-System
